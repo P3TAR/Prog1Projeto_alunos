@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1611602830 source:c:\programacao\projeto_alunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantes.h"
+	"funcoes_auxiliar.h"
+	"funcoes_aulas.h"
+
+1611602234 c:\programacao\projeto_alunos\constantes.h
+
+1611523998 c:\programacao\projeto_alunos\funcoes_auxiliar.h
+
+1611602258 c:\programacao\projeto_alunos\funcoes_aulas.h
+
+1611583376 source:c:\programacao\projeto_alunos\funcoes_aulas.c
+	<stdio.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoes_auxiliar.h"
+	"funcoes_aulas.h"
+
+1609267706 source:c:\programacao\projeto_alunos\funcoes_auxiliar.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliar.h"
+
+1610823006 source:c:\programacao\projeto_alunos\untitled1.c
+
+1611602393 source:c:\programacao\projeto_alunos\funcoes_aulas_gerais.c
+	<stdio.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoes_auxiliar.h"
+	"funcoes_aulas.h"
+
+1611537018 source:c:\programacao\projeto_alunos\funcoes_aulastp.c
+	<stdio.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoes_auxiliar.h"
+	"funcoes_aulas.h"
+
+1611537018 source:c:\programacao\projeto_alunos\funcoes_aulaspl.c
+	<stdio.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoes_auxiliar.h"
+	"funcoes_aulas.h"
+
+1611583378 source:c:\users\pedro\desktop\projeto_alunos\funcoes_aulas.c
+	<stdio.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoes_auxiliar.h"
+	"funcoes_aulas.h"
+
+1611602236 c:\users\pedro\desktop\projeto_alunos\constantes.h
+
+1611524000 c:\users\pedro\desktop\projeto_alunos\funcoes_auxiliar.h
+
+1611602260 c:\users\pedro\desktop\projeto_alunos\funcoes_aulas.h
+
+1611602394 source:c:\users\pedro\desktop\projeto_alunos\funcoes_aulas_gerais.c
+	<stdio.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoes_auxiliar.h"
+	"funcoes_aulas.h"
+
+1611537020 source:c:\users\pedro\desktop\projeto_alunos\funcoes_aulaspl.c
+	<stdio.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoes_auxiliar.h"
+	"funcoes_aulas.h"
+
+1611537020 source:c:\users\pedro\desktop\projeto_alunos\funcoes_aulastp.c
+	<stdio.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoes_auxiliar.h"
+	"funcoes_aulas.h"
+
+1609267708 source:c:\users\pedro\desktop\projeto_alunos\funcoes_auxiliar.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliar.h"
+
+1611602832 source:c:\users\pedro\desktop\projeto_alunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantes.h"
+	"funcoes_auxiliar.h"
+	"funcoes_aulas.h"
+
